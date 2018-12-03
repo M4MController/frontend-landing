@@ -3,8 +3,8 @@ body{background-color:#f3f3f1;font-family:GothamProRegular;font-size:14px}
 *{margin:0;padding:0;box-sizing:border-box;outline:0}
 .clearfix::after{content:'';display:block;clear:both}
 .background_wrapper_first{width:100%;min-height:450px;background-image:url(../images/index//background_top.jpg);background-position:50%}
-.background_wrapper_second{width:100%;min-height:275px;margin-bottom:95px;background-image:url(../images/index//background_middle.jpg);background-position:50%}
-.background_wrapper_third{width:100%;min-height:450px;background-image:url(../images/index//background_bottom.jpg);background-position:50%}
+.background_wrapper_second{width:100%;min-height:275px;margin-bottom:35px;background-image:url(../images/index//background_middle.jpg);background-position:50%}
+.background_wrapper_third{width:100%;min-height:450px;margin-top:40px;background-image:url(../images/index//background_bottom.jpg);background-position:50%}
 .button{padding:10px 40px;border:none;border-radius:25px;background-color:#ee3840;font-size:14px;outline:0;color:#fff}
 .button_big{padding:20px 40px;border:none;border-radius:30px;background-color:#ee3840;font-size:16px;outline:0;color:#fff}
 h1,h2,h3,h4,h5{font-family:SFUISemibold;margin:0;padding:0}
@@ -66,7 +66,7 @@ h6{font-size:18px}
 .econom .instructions .instruction_top span{order:2}
 .econom .instructions .instructions_bottom{display:inline-block;width:230px;padding-top:110px}
 .form{color:#fff;padding-bottom:70px}
-.form .form_header{padding-top:150px}
+.form .form_header{padding-top:100px}
 .form .form_header h2{text-align:left;line-height:35px;max-width:420px;margin-bottom:35px}
 .form .form_header p{line-height:21px}
 .form form{margin-top:80px}
